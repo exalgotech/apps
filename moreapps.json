@@ -1,0 +1,22 @@
+{
+  "moredata": [
+    {
+      "app_name": "Word Search - Puzzle Game",
+      "package_name": "wordchallenge.playcross.searchpuzzle",
+      "app_link": "https://play.google.com/store/apps/details?id=wordchallenge.playcross.searchpuzzle&hl=en_IN",
+      "app_logo": "https://exalgotech.github.io/apps/img/Word-Search-Puzzle-Game.png"
+    },
+    {
+      "app_name": "QuickGST Calculator",
+      "package_name": "smartcalculator.gstfreelearn.interestlogic",
+      "app_link": "https://play.google.com/store/apps/details?id=smartcalculator.gstfreelearn.interestlogic&hl=en_IN",
+      "app_logo": "https://exalgotech.github.io/apps/img/QuickGST-Calculator.png"
+    },
+    {
+      "app_name": "Translate All Languages",
+      "package_name": "learnhowtool.hindienglangu.speaktranslate",
+      "app_link": "https://play.google.com/store/apps/details?id=learnhowtool.hindienglangu.speaktranslate&hl=en_IN",
+      "app_logo": "https://exalgotech.github.io/apps/img/Translate-All-Languages.png"
+    }
+  ]
+}
